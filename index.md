@@ -13,8 +13,7 @@ Studies
 2007-2013
 :   Engineer on nerdy stuff
 
-    Such as telecommunication, codding, analogic and digital electronics
-    Quantum Tunneling Device.
+    Such as telecommunication, codding, analogic and digital electronics.
 
 Hobbies
 -------
