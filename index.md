@@ -10,7 +10,7 @@ Henri Vandendriessche
 Studies
 --------------------
 
-2007-2013
+2007-2014
 :   Engineer on nerdy stuff
 
     Such as telecommunication, codding, analogic and digital electronics.
