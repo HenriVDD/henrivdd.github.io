@@ -25,6 +25,25 @@ Publications
 - Gharbi-Meliani, A., Husson, F., **Vandendriessche, H**. et al. [Identification of high likelihood of dementia in population-based surveys using unsupervised clustering: a longitudinal analysis.](https://doi.org/10.1186/s13195-023-01357-9) Alz Res Therapy 15, 209 (2023). https://doi.org/10.1186/s13195-023-01357-9
 
 
+Education
+--------------------
+
+2010-2024 (if everything goes as expected)
+:   **PhD, Cognitive Science**; Ecole Normale Superieure (ENS), Paris Sciences et Lettres (PSL), (Paris, France)
+
+    *Thesis title: coming shortly..
+
+2014-2016
+:   **Bachelor of Philosophy**(distant learning); Université de Reims Champagne-Ardenne.
+
+2011-2013
+:   **Master of Science, engineering in electronics and computer science**; Institut Supérieur de l’Électronique et du Numérique ISEN, (Lille, France)
+    Focus on digital technologies and applications. Second year of the master achieved at the TU Dortmund (Germany).   
+
+2007-2011
+:   **Bachelor of Science in engineering science**; Institut Supérieur de l’Électronique et du Numérique ISEN France, Lille. 
+    Focus in mathematics, electronics, physics.
+
 Studies
 --------------------
 
@@ -36,6 +55,7 @@ Studies
 
 Languages
 --------------------
+
 **French**:
 :   Native speaker
 
@@ -46,11 +66,12 @@ Languages
 :   Professional working proficiency
 
 **Spanish**:
-:   elementary preficiency
+:   Elementary preficiency
 
 
 Hobbies
 --------------------
+
 **Video games**: 
 :   I play a lot -_-
 
