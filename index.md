@@ -29,21 +29,22 @@ Work Experiences
 --------------------
 2021 - Somewhere in 2024	
 :   **PhD candidate at Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Département d’Etude Cognitive (DEC), Ecole normale supérieure (ENS-PSL) Paris, France.**
-	- Regret and disappointment in human reinforcement learning: computational, behavioural and neural bases
+	* Regret and disappointment in human reinforcement learning: computational, behavioural and neural bases
 
 
 2019 - 2021	
 :   **Laboratoire de Neuropsychologie Interventionnelle, (ENS, Paris): Engineer/ Project Manager****
-    - Development of cognitive tests in collaboration with NPI researchers and project manager.
-    - Management and implementation of cognitive tests in collaboration with external stakeholders of the lab.
-    - Data analysis, data management, data visualisation and statistics analysis on research's project data.
+    * Development of cognitive tests in collaboration with NPI researchers and project manager.
+    * Management and implementation of cognitive tests in collaboration with external stakeholders of the lab.
+    * Data analysis, data management, data visualisation and statistics analysis on research's project data.
+
 
 2014 - 2019	
 :   **Engineer manager of scientific platform at the Département d’Études Cognitives (ENS, Paris)**
-    - Management of the experimental platform for adult tests of the Département d’Études Cognitives. 
-    -Technical maintenance of the platform (computers, software, Eyetrackers, EEG...)
-    - Activities of research (data collection, experiments designing, analysis) on different strategic projects for the department. 
-    - Development and maintenance of a website dedicated to optimization of the planning of experiments and occupation of test areas.
+    * Management of the experimental platform for adult tests of the Département d’Études Cognitives. 
+    * Technical maintenance of the platform (computers, software, Eyetrackers, EEG...)
+    * Activities of research (data collection, experiments designing, analysis) on different strategic projects for the department. 
+    * Development and maintenance of a website dedicated to optimization of the planning of experiments and occupation of test areas.
 
 
 Education
@@ -51,7 +52,6 @@ Education
 
 2010-2024 (if everything goes as expected)
 :   **PhD, Cognitive Science**; Ecole Normale Superieure (ENS), Paris Sciences et Lettres (PSL), (Paris, France)
-
     *Thesis title: coming shortly...
 
 
