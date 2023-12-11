@@ -38,10 +38,13 @@ Languages
 --------------------
 **French**:
 :   Native speaker
+
 **English**:
 :   full professional proficiency
+
 **German**:
 :   Professional working proficiency
+
 **Spanish**:
 :   elementary preficiency
 
@@ -50,7 +53,9 @@ Hobbies
 --------------------
 **Video games**: 
 :   I play a lot -_-
+
 **Music**: 
 :   Member of the KKO Katerina Klezmer Orchestra (Clarinet)
+
 **Prison visitor**: 
 :   Member of the ANVP (Association Nationale des Visiteurs en Prison)
