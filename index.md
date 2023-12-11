@@ -22,6 +22,8 @@ Publications
 
 - Katia Youssov, Etienne Audureau, **Henri Vandendriessche**, Graca Morgado, Richard Layese, Cyril Goizet, Christophe Verny, Marie-Laure Bourhis, Anne-Catherine Bachoud-Lévi, [**The burden of Huntington's disease: A prospective longitudinal study of patient/caregiver pairs**](https://www.sciencedirect.com/science/article/pii/S1353802022002802), Parkinsonism & Related Disorders, Volume 103, 2022, Pages 77-84, ISSN 1353-8020, https://doi.org/10.1016/j.parkreldis.2022.08.023. (https://www.sciencedirect.com/science/article/pii/S1353802022002802)
 
+- Gharbi-Meliani, A., Husson, F., **Vandendriessche, H**. et al. [Identification of high likelihood of dementia in population-based surveys using unsupervised clustering: a longitudinal analysis.](https://doi.org/10.1186/s13195-023-01357-9) Alz Res Therapy 15, 209 (2023). https://doi.org/10.1186/s13195-023-01357-9
+
 
 Studies
 --------------------
@@ -31,8 +33,24 @@ Studies
 
     Such as telecommunication, codding, analogic and digital electronics.
 
-Hobbies
--------
 
-Interests
-:   I like to play video games
+Languages
+--------------------
+**French**:
+:   Native speaker
+**English**:
+:   full professional proficiency
+**German**:
+:   Professional working proficiency
+**Spanish**:
+:   elementary preficiency
+
+
+Hobbies
+--------------------
+**Video games**: 
+:   I play a lot -_-
+**Music**: 
+:   Member of the KKO Katerina Klezmer Orchestra (Clarinet)
+**Prison visitor**: 
+:   Member of the ANVP (Association Nationale des Visiteurs en Prison)
