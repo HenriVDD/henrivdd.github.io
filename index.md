@@ -22,7 +22,7 @@ Publications
 
 - Katia Youssov, Etienne Audureau, **Henri Vandendriessche**, Graca Morgado, Richard Layese, Cyril Goizet, Christophe Verny, Marie-Laure Bourhis, Anne-Catherine Bachoud-Lévi, [**The burden of Huntington's disease: A prospective longitudinal study of patient/caregiver pairs**](https://www.sciencedirect.com/science/article/pii/S1353802022002802), Parkinsonism & Related Disorders, Volume 103, 2022, Pages 77-84, ISSN 1353-8020, https://doi.org/10.1016/j.parkreldis.2022.08.023. (https://www.sciencedirect.com/science/article/pii/S1353802022002802)
 
-- Gharbi-Meliani, A., Husson, F., **Vandendriessche, H**. et al. [Identification of high likelihood of dementia in population-based surveys using unsupervised clustering: a longitudinal analysis.](https://doi.org/10.1186/s13195-023-01357-9) Alz Res Therapy 15, 209 (2023). https://doi.org/10.1186/s13195-023-01357-9
+- Gharbi-Meliani, A., Husson, F., **Vandendriessche, H**. et al. [**Identification of high likelihood of dementia in population-based surveys using unsupervised clustering: a longitudinal analysis.**](https://doi.org/10.1186/s13195-023-01357-9) Alz Res Therapy 15, 209 (2023). https://doi.org/10.1186/s13195-023-01357-9
 
 
 Work Experiences
@@ -77,7 +77,7 @@ Teachings
 
 
 2021-2023
-:   **Teaching Assistant: [PROG 101 Introduction to Programming for Cognitive scientists]https://docs.google.com/document/d/1m8o2R8hNs_0oHA9P_UCh26QHDonHgg9EmU1pFpaOykg/edit?usp=sharing**; Cogmaster, [Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS.  
+:   **Teaching Assistant: [PROG 101 Introduction to Programming for Cognitive scientists](https://docs.google.com/document/d/1m8o2R8hNs_0oHA9P_UCh26QHDonHgg9EmU1pFpaOykg/edit?usp=sharing); Cogmaster, [Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS.  
 
     Teaching Python to master students with no prior experience in programming
 
