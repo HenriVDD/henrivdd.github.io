@@ -1,6 +1,13 @@
 Henri Vandendriessche
 ============
 
+- <henri.vandendriessche @t protonmail.com>
+- Laboratoire de Neurosciences cognitives et computationelles
+- 29 rue d'Ulm, 75005
+- Paris, France 
+
+
+
 ----
 
 >  I am a PhD candidate at the [Laboratoire des Neurosciences Cognitives et Computationelles (LNC2)](httpshttps://lnc2.dec.ens.fr/fr) in the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) team led by Stefano Palminteri. Initially trained as an engineer in electronics and informatics, I worked for 7 years as a support engineer at the Departement d'Etudes Cognitives of the Ecole Normale Supérieure in Paris.
@@ -8,6 +15,70 @@ Henri Vandendriessche
 >  After some years (7 to be precise) working on the projects of others: setting up experiments, developping technical solutions and doing data analysis, I decided it was time to get my own project. I started my PhD in April 2021. My interest lies at the crossroads of value-based decision making,computational psychiatry and human reinforcement learning.
 
 ----
+
+
+
+Work Experience
+--------------------
+**2021 - 2024 Sometime**	
+:   **PhD candidate at Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Département d’Etude Cognitive (DEC), Ecole normale supérieure (ENS-PSL) Paris, France.**
+
+	* Regret and disappointment in human reinforcement learning: computational, behavioural and neural bases
+    * Eyetracking, modelling, 
+
+
+**2019 - 2021**
+:   **Laboratoire de Neuropsychologie Interventionnelle, (ENS, Paris): Engineer/ Project Manager**
+
+    * Management and implementation of cognitive tests in collaboration with external stakeholders of the lab.
+    * Data analysis, data management, data visualisation and statistics analysis on research's project data.
+
+
+**2014 - 2019**
+:   **Engineer manager of scientific platform at the Département d’Études Cognitives (ENS, Paris)**
+
+    * Management of the experimental platform for adult tests of the Département d’Études Cognitives. 
+    * Technical maintenance of the platform (computers, software, Eyetrackers, EEG...)
+    * Activities of research (data collection, experiments designing, analysis) on different strategic projects for the department. 
+    * Development and maintenance of a website dedicated to optimization of the planning of experiments and occupation of test areas.
+
+
+Education
+--------------------
+
+**2010-2024** (Hopefully)
+:   **PhD, Cognitive Science**; Ecole Normale Superieure (ENS), Paris Sciences et Lettres (PSL), (Paris, France)
+    
+    * PhD scholarship from IRESP (National institute of public health research)
+    * Thesis title: coming shortly...
+
+
+**2014-2016**
+:   **Bachelor of Philosophy**(distant learning); Université de Reims Champagne-Ardenne.
+
+
+**2011-2013**
+:   **Master of Science, in electronics and computer science engineering**; Institut Supérieur de l’Électronique et du Numérique ISEN, (Lille, France)
+    Focus on digital technologies and applications (telecommunication, analogic and digital electronics.). Second year of the master achieved at the TU Dortmund (Germany).   
+
+
+**2007-2011**
+:   **Bachelor of Science, engineering science**; Institut Supérieur de l’Électronique et du Numérique ISEN France, Lille. 
+    Focus in mathematics, electronics, physics.
+
+
+Teachings
+--------------------
+
+**2023 (March)**
+:   **Co-organisation of a workshop**; Basic reinforcement learning modeling techniques at the international Symposium of “Biology of Behavior Change” (Kyoto, Japan).
+
+
+**2021-2023**
+:   **Teaching Assistant: [PROG 101 Introduction to Programming for Cognitive scientists](https://docs.google.com/document/d/1m8o2R8hNs_0oHA9P_UCh26QHDonHgg9EmU1pFpaOykg/edit?usp=sharing); Cogmaster, [Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS.  
+
+    Teaching Python to master students with no prior experience in programming
+
 
 Publications
 --------------------
@@ -25,95 +96,40 @@ Publications
 - Gharbi-Meliani, A., Husson, F., **Vandendriessche, H**. et al. [**Identification of high likelihood of dementia in population-based surveys using unsupervised clustering: a longitudinal analysis.**](https://doi.org/10.1186/s13195-023-01357-9) Alz Res Therapy 15, 209 (2023). https://doi.org/10.1186/s13195-023-01357-9
 
 
-Work Experiences
---------------------
-2021 - Somewhere in 2024	
-:   **PhD candidate at Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Département d’Etude Cognitive (DEC), Ecole normale supérieure (ENS-PSL) Paris, France.**
-	* Regret and disappointment in human reinforcement learning: computational, behavioural and neural bases
-
-
-2019 - 2021	
-:   **Laboratoire de Neuropsychologie Interventionnelle, (ENS, Paris): Engineer/ Project Manager****
-    * Development of cognitive tests in collaboration with NPI researchers and project manager.
-    * Management and implementation of cognitive tests in collaboration with external stakeholders of the lab.
-    * Data analysis, data management, data visualisation and statistics analysis on research's project data.
-
-
-2014 - 2019	
-:   **Engineer manager of scientific platform at the Département d’Études Cognitives (ENS, Paris)**
-    * Management of the experimental platform for adult tests of the Département d’Études Cognitives. 
-    * Technical maintenance of the platform (computers, software, Eyetrackers, EEG...)
-    * Activities of research (data collection, experiments designing, analysis) on different strategic projects for the department. 
-    * Development and maintenance of a website dedicated to optimization of the planning of experiments and occupation of test areas.
-
-
-Education
---------------------
-
-2010-2024 (if everything goes as expected)
-:   **PhD, Cognitive Science**; Ecole Normale Superieure (ENS), Paris Sciences et Lettres (PSL), (Paris, France)
-    *Thesis title: coming shortly...
-
-
-2014-2016
-:   **Bachelor of Philosophy**(distant learning); Université de Reims Champagne-Ardenne.
-
-
-2011-2013
-:   **Master of Science, in electronics and computer science engineering**; Institut Supérieur de l’Électronique et du Numérique ISEN, (Lille, France)
-    Focus on digital technologies and applications (telecommunication, analogic and digital electronics.). Second year of the master achieved at the TU Dortmund (Germany).   
-
-
-2007-2011
-:   **Bachelor of Science, engineering science**; Institut Supérieur de l’Électronique et du Numérique ISEN France, Lille. 
-    Focus in mathematics, electronics, physics.
-
-
-Teachings
---------------------
-
-2023 (March)
-:   **Co-organisation of a workshop**; Basic reinforcement learning modeling techniques at the international Symposium of “Biology of Behavior Change” (Kyoto, Japan).
-
-
-2021-2023
-:   **Teaching Assistant: [PROG 101 Introduction to Programming for Cognitive scientists](https://docs.google.com/document/d/1m8o2R8hNs_0oHA9P_UCh26QHDonHgg9EmU1pFpaOykg/edit?usp=sharing); Cogmaster, [Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS.  
-
-    Teaching Python to master students with no prior experience in programming
-
-
 Poster
 --------------------
-
-2022 (July)
+**2022 (July)**
 :   Forum of the Federation of European Neuroscience Societies (FENS), Paris, France.
 
 
-2018 (June)
+**2018 (June)**
 :   Symposium on Biology of Decision-Making (SBDM), Paris, France   
 
 
-2017 (March)
+**2017 (March)**
 :   Cosyne, Salt lake city, USA   
 
 
-Languages
+Skills
 --------------------
 
-**French**:
-:   Native speaker
+**Programming and Nerd stuffs**
+:   * Python, R, Javascript & html/css, Matlab
+    * Linux (Debian, Ubuntu), bash, Database (MySQL,MariaDB)
+
+**Techniques**
+:   * Reinforcement Learning modelling, Eyetracking (Eyelink), Online experiment (Prolific)
+
+**Languages**
+:   * **French**: Native speaker
+    * **English**: Full professional proficiency
+    * **German**: Professional working proficiency
+    * **Spanish**: Elementary preficiency
+
+**Soft skills**
+:   * Organisation of the joint bi-monthly lab meetings for the 8 teams of the LNC2 featuring both internal and external speakers.
 
 
-**English**:
-:   full professional proficiency
-
-
-**German**:
-:   Professional working proficiency
-
-
-**Spanish**:
-:   Elementary preficiency
 
 
 Hobbies
@@ -123,7 +139,7 @@ Hobbies
 :   I play a lot -_-
 
 **Music**: 
-:   Member of the KKO Katerina Klezmer Orchestra (Clarinet)
+:   Member of the KKO Klaxophone Klezmer Orchestra (Clarinet)
 
 **Prison visitor**: 
-:   Member of the ANVP (Association Nationale des Visiteurs en Prison)
+:   Member of the ANVP (French association of prison visitors)
