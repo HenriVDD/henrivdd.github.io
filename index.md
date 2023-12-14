@@ -10,9 +10,9 @@ Henri Vandendriessche
 
 ----
 
->  I am a PhD candidate at the [Laboratoire des Neurosciences Cognitives et Computationelles (LNC2)](httpshttps://lnc2.dec.ens.fr/fr) in the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) team led by Stefano Palminteri. Initially trained as an engineer in electronics and informatics, I worked for 7 years as a support engineer at the Departement d'Etudes Cognitives of the Ecole Normale Supérieure in Paris.
+>  I am a PhD candidate at the [Laboratoire des Neurosciences Cognitives et Computationelles (LNC2)](httpshttps://lnc2.dec.ens.fr/fr) in the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) team led by [Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/home). Initially trained as an engineer in electronics and informatics, I worked for 7 years as a support engineer at the Departement d'Etudes Cognitives of the Ecole Normale Supérieure in Paris in charge of the experimental platform.
 
->  After some years (7 to be precise) working on the projects of others: setting up experiments, developping technical solutions and doing data analysis, I decided it was time to get my own project. I started my PhD in April 2021. My interest lies at the crossroads of value-based decision making, computational psychiatry and human reinforcement learning.
+>  After some years working on the projects of others: setting up experiments, developping technical solutions and doing data analysis, I decided it was time to get my own project. I started my PhD in April 2021. My interest lies at the crossroads of affective value-based decision making, computational psychiatry and behavioral economics.
 
 ----
 
@@ -23,8 +23,10 @@ Work Experience
 **2021 - 2024 Sometime**	
 :   **PhD candidate at Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Département d’Etude Cognitive (DEC), Ecole normale supérieure (ENS-PSL) Paris, France.**
 
-	* Regret and disappointment in human reinforcement learning: computational, behavioural and neural bases
-    * Eyetracking, modelling, 
+	* My PhD consists in the study of biases at play in value based decision making in different tasks and population. 
+    * The first project was an investigation of the so-called negativity bias in patients suffering from major depressive disorder in comparison to a control group. ([Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593))
+    * My second study is the design and exploration of a new multi-outcomes two-arm bandit task involving a random reward selection process. This study aims at investigating how people process multiple outcomes for one single option but also how they learn despite the random reward selection process. This experiment includes behavioral experiment online and in lab, eyetracking and computational modelling.
+    * A third part of my PhD is a collaborating modelling investigation with Maeva L'hotellier (research engineer in the team) on follow-up online data of my first project. The main objective is to better characterize the task and the effect obtained in the [Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593) thanks to a bigger and more naturalistic sample, allowing us to implement a more robust modelling approach with more complex models.
 
 
 **2019 - 2021**
@@ -75,9 +77,12 @@ Teachings
 
 
 **2021-2023**
-:   **Teaching Assistant: [PROG 101 Introduction to Programming for Cognitive scientists](https://docs.google.com/document/d/1m8o2R8hNs_0oHA9P_UCh26QHDonHgg9EmU1pFpaOykg/edit?usp=sharing); Cogmaster, [Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS.  
+:   **Teaching Assistant: [PROG 101 Introduction to Programming for Cognitive scientists](https://docs.google.com/document/d/1m8o2R8hNs_0oHA9P_UCh26QHDonHgg9EmU1pFpaOykg/edit?usp=sharing); Cogmaster, [Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS (40 hrs/year).  
 
     Teaching Python to master students with no prior experience in programming
+
+**2022**
+:   Introduction to human reinforcement-learning: Cogmaster[Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS (2 hrs)
 
 
 Publications
@@ -113,8 +118,8 @@ Poster
 Skills
 --------------------
 
-**Programming and Nerd stuffs**
-:   * Python, R, Javascript & html/css, Matlab
+**Programming and nerdy stuff**
+:   * Python, R, Javascript & PHP + html/css, Matlab
     * Linux (Debian, Ubuntu), bash, Database (MySQL,MariaDB)
 
 **Techniques**
