@@ -65,13 +65,13 @@ blockquote {
 /* Links */
 a {
     text-decoration: none;
-    color: #50548f;
+    color: #2d5a91;
 }
 a:hover, a:active {
     background-color: #FFFFFF;
-    color: #935baf;
+    color: #50548f;
     text-decoration: none;
-   
+    text-shadow: 0px 0px 1px #50548f;
 }
 
 /* Horizontal separators */
@@ -93,6 +93,7 @@ h1 + ul {
     font-weight: bold;
     margin: 0;
     padding: 0;
+    color: #a985bb;
     }
 h1 + ul > li {
     display: inline;
