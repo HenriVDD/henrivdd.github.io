@@ -14,7 +14,7 @@ header-includes:
 
 ----
 
->  I am a PhD candidate at the [Laboratoire des Neurosciences Cognitives et Computationelles (LNC2)](httpshttps://lnc2.dec.ens.fr/fr) in the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) team led by [Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/home). Initially trained as an engineer in electronics and informatics, I worked for 7 years as a support engineer at the Departement d'Etudes Cognitives of the Ecole Normale Supérieure in Paris in charge of the experimental platform.
+>  I am a PhD candidate at the [Laboratoire des Neurosciences Cognitives et Computationelles (LNC2)](httpshttps://lnc2.dec.ens.fr/fr) in the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) team led by [Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/home). Initially trained as an engineer in electronics and computer sciences, I worked for 7 years as an engineer at the Departement d'Etudes Cognitives of the Ecole Normale Supérieure in Paris in charge of the experimental platform.
 
 >  After some years working on the projects of others: setting up experiments, developping technical solutions and doing data analysis, I decided it was time to get my own project. I started my PhD in April 2021. My interest lies at the crossroads of affective value-based decision making, computational psychiatry and mental health, behavioral economics.
 
