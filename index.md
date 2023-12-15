@@ -154,5 +154,5 @@ Hobbies
 **Music**: 
 :   Member of the KKO Klaxophone Klezmer Orchestra (Clarinet)
 
-**Prison visitor**: 
-:   Member of the ANVP (French association of prison visitors)
+**Volunteering**: 
+:   Prison visitor, member of the ANVP (French association of prison visitors)
