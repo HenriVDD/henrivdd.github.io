@@ -90,7 +90,7 @@ Teachings
     Teaching Python to master students with no prior experience in programming
 
 **2022**
-:   Introduction to human reinforcement-learning: Cogmaster[Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS (2 hrs)
+:   **Introduction to human reinforcement-learning**: Cogmaster, [Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS (2 hrs)
 
 
 Publications
@@ -98,7 +98,7 @@ Publications
 
 -  **Vandendriessche, H.**, Demmou, A., Bavard, S., Yadak, J., Lemogne, C., Mauras, T., & Palminteri, S. (2022). [**Contextual influence of reinforcement learning performance of depression: Evidence for a negativity bias?** Psychological Medicine, 1-11. doi:10.1017/S0033291722001593](https://www.cambridge.org/core/journals/psychological-medicine/article/contextual-influence-of-reinforcement-learning-performance-of-depression-evidence-for-a-negativity-bias/4A99B6789148211973379AB7A8A81036#authors-details)
 
-- **Vandendriessche, H.**, Palminteri, S. [Neurocognitive biases from the lab to real life](https://doi.org/10.1038/s42003-023-04544-4). Commun Biol 6, 158 (2023). https://doi.org/10.1038/s42003-023-04544-4
+- **Vandendriessche, H.**, Palminteri, S. **[Neurocognitive biases from the lab to real life](https://doi.org/10.1038/s42003-023-04544-4)**. Commun Biol 6, 158 (2023). https://doi.org/10.1038/s42003-023-04544-4
 
 - Chambon, V., Théro, H., Vidal, M. et al. InfChambon, V., Théro, H., Vidal, M. et al. [**Information about action outcomes differentially affects learning from self-determined versus imposed choices.**](https://doi.org/10.1038/s41562-020-0919-5) Nat Hum Behav 4, 1067–1079 (2020). https://doi.org/10.1038/s41562-020-0919-5 
 
