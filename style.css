@@ -88,21 +88,21 @@ ul {
     margin: 0 1.5em;
     }
 /* ul immediately after h1 = contact list */
-h1 + ul {
+header + ul {
     text-align: center;
     font-weight: bold;
     margin: 0;
     padding: 0;
     color: #a985bb;
     }
-h1 + ul > li {
+header + ul > li {
     display: inline;
     white-space: pre;
     list-style-type: none;
 }
-h1 + ul > li:after {
+header + ul > li:after {
     content: "  \2023  ";
 }
-h1 + ul > li:last-child:after {
+header + ul > li:last-child:after {
     content: "";
 }

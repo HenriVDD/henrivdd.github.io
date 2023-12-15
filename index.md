@@ -1,18 +1,22 @@
-Henri Vandendriessche
-============
+---
+title: Henri Vandendriessche
+header-includes:
+    <link rel="icon" type="image/png" href="img/favicon.png" />
+    
+---
 
-- <henri.vandendriessche @t protonmail.com>
+
+- henri.vandendriessche @t protonmail.com
+- github.com/HenriVDD
+- https://gitlab.com/henriv
 - Laboratoire de Neurosciences cognitives et computationelles
-- 29 rue d'Ulm, 75005
-- Paris, France 
-
-
+- 29 rue d'Ulm, 75005 - Paris, France 
 
 ----
 
 >  I am a PhD candidate at the [Laboratoire des Neurosciences Cognitives et Computationelles (LNC2)](httpshttps://lnc2.dec.ens.fr/fr) in the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) team led by [Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/home). Initially trained as an engineer in electronics and informatics, I worked for 7 years as a support engineer at the Departement d'Etudes Cognitives of the Ecole Normale Supérieure in Paris in charge of the experimental platform.
 
->  After some years working on the projects of others: setting up experiments, developping technical solutions and doing data analysis, I decided it was time to get my own project. I started my PhD in April 2021. My interest lies at the crossroads of affective value-based decision making, computational psychiatry and behavioral economics.
+>  After some years working on the projects of others: setting up experiments, developping technical solutions and doing data analysis, I decided it was time to get my own project. I started my PhD in April 2021. My interest lies at the crossroads of affective value-based decision making, computational psychiatry and mental health, behavioral economics.
 
 ----
 
@@ -23,26 +27,30 @@ Work Experience
 **2021 - 2024 Sometime**	
 :   **PhD candidate at Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Département d’Etude Cognitive (DEC), Ecole normale supérieure (ENS-PSL) Paris, France.**
 
-	* My PhD consists in the study of biases at play in value based decision making in different tasks and population. 
-    * The first project was an investigation of the so-called negativity bias in patients suffering from major depressive disorder in comparison to a control group. ([Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593))
+	My PhD consists in studying cognitive biases at play in value based decision making in different tasks and population. 
+    
+    * The first project was an investigation of the so-called negativity bias in patients suffering from major depressive disorder in comparison. The clinical population was compared to a matched control group in a reinforcement learning task. Both behavioral and computational results showed a context dependence in the clinical population with a general tendency toward a negativity bias that displayed with a stronger learning rate for punishement than for reward ([Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593)).
     * My second study is the design and exploration of a new multi-outcomes two-arm bandit task involving a random reward selection process. This study aims at investigating how people process multiple outcomes for one single option but also how they learn despite the random reward selection process. This experiment includes behavioral experiment online and in lab, eyetracking and computational modelling.
-    * A third part of my PhD is a collaborating modelling investigation with Maeva L'hotellier (research engineer in the team) on follow-up online data of my first project. The main objective is to better characterize the task and the effect obtained in the [Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593) thanks to a bigger and more naturalistic sample, allowing us to implement a more robust modelling approach with more complex models.
+    * A third part of my PhD is a collaborating modelling investigation with Maeva L'hotellier (research engineer in the team) on follow-up online data of my first project. The main objective is to better characterize the task and the effect obtained in the [Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593) paper thanks to a bigger and more naturalistic sample, allowing us to implement a more robust modelling approach with more complex models.
 
 
 **2019 - 2021**
-:   **Laboratoire de Neuropsychologie Interventionnelle, (ENS, Paris): Engineer/ Project Manager**
+:   **Laboratoire de Neuropsychologie Interventionnelle (NPI), (ENS, Paris. AP-HP Henri Mondor Hospital. Creteil): Research engineer**
 
+    * Design and implementation of IT solutions for the different lab’s projects in close interaction with the NPI project manager.
+    * Development of cognitive tests in collaboration with NPI researchers for clinical research on neurodegenerative conditions such as Parkinson and Huntington's disease.
+    * Technical support, data analysis, data management and statistical analysis on clinical research's for the French National Reference Centre for Huntington's disease.
     * Management and implementation of cognitive tests in collaboration with external stakeholders of the lab.
-    * Data analysis, data management, data visualisation and statistics analysis on research's project data.
 
 
 **2014 - 2019**
 :   **Engineer manager of scientific platform at the Département d’Études Cognitives (ENS, Paris)**
 
-    * Management of the experimental platform for adult tests of the Département d’Études Cognitives. 
+    * Management of the experimental platform for adult testing of the Département d’Études Cognitives. 
     * Technical maintenance of the platform (computers, software, Eyetrackers, EEG...)
-    * Activities of research (data collection, experiments designing, analysis) on different strategic projects for the department. 
-    * Development and maintenance of a website dedicated to optimization of the planning of experiments and occupation of test areas.
+    * Engineering support (data collection, experiments designing, analysis) on strategic and innovative projects for the department. 
+    * Organisation and animation of collegial meetings to organise the management experimental platform inclunding researchers of every lab.
+    * Development and maintenance of IT solutions dedicated to the optimization of the exploitation of the experimental platform.
 
 
 Education
@@ -123,7 +131,7 @@ Skills
     * Linux (Debian, Ubuntu), bash, Database (MySQL,MariaDB)
 
 **Techniques**
-:   * Reinforcement Learning modelling, Eyetracking (Eyelink), Online experiment (Prolific)
+:   * Reinforcement Learning modelling, Eyetracking (Eyelink), Online experiment (Prolific), statistical modelling.
 
 **Languages**
 :   * **French**: Native speaker
