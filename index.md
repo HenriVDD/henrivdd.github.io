@@ -21,7 +21,6 @@ header-includes:
 ----
 
 
-
 Work Experience
 --------------------
 **2021 - Present**	
@@ -100,7 +99,7 @@ Publications
 
 - **Vandendriessche, H.**, Palminteri, S. **[Neurocognitive biases from the lab to real life](https://doi.org/10.1038/s42003-023-04544-4)**. Commun Biol 6, 158 (2023). https://doi.org/10.1038/s42003-023-04544-4
 
-- Chambon, V., Théro, H., Vidal, M. et al. InfChambon, V., Théro, H., Vidal, M. et al. [**Information about action outcomes differentially affects learning from self-determined versus imposed choices.**](https://doi.org/10.1038/s41562-020-0919-5) Nat Hum Behav 4, 1067–1079 (2020). https://doi.org/10.1038/s41562-020-0919-5 
+- Chambon, V., Théro, H., Vidal, M., **Vandendriessche, H.**, Haggard, P. & Palminteri S.   [**Information about action outcomes differentially affects learning from self-determined versus imposed choices.**](https://doi.org/10.1038/s41562-020-0919-5) Nat Hum Behav 4, 1067–1079 (2020). https://doi.org/10.1038/s41562-020-0919-5 
 
 - Marine Lunven, Karen Hernandez Dominguez, Katia Youssov, Jennifer Hamet Bagnou, Rafika Fliss, **Henri Vandendriessche**, Blanche Bapst, Graça Morgado, Philippe Remy, Robin Schubert, Ralf Reilmann, Monica Busse, David Craufurd, Renaud Massart, Anne Rosser, Anne-Catherine Bachoud-Lévi, [**A new approach to digitized cognitive monitoring: validity of the SelfCog in Huntington’s disease**](https://doi.org/10.1093/braincomms/fcad043), Brain Communications, Volume 5, Issue 2, 2023, fcad043, https://doi.org/10.1093/braincomms/fcad043
 
