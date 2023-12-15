@@ -24,7 +24,7 @@ header-includes:
 
 Work Experience
 --------------------
-**2021 - 2024 Sometime**	
+**2021 - Present**	
 :   **PhD candidate: Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Département d’Etudes Cognitives (DEC), Ecole normale supérieure (ENS-PSL) Paris, France.**
 
 	My PhD focuses in the study of cognitive biases at play in value based decision making in different tasks and population. 
@@ -37,43 +37,43 @@ Work Experience
 **2019 - 2021**
 :   **Research engineer: Laboratoire de Neuropsychologie Interventionnelle (NPI), (ENS, Paris. AP-HP Henri Mondor Hospital. Creteil)**
 
-    * Design and implementation of IT solutions for the different lab’s projects in close interaction with the NPI project manager.
+    * Design and implementation of IT solutions for the different lab projects in close interaction with the NPI project manager.
     * Development of cognitive tests in collaboration with NPI researchers for clinical research on neurodegenerative conditions such as Parkinson and Huntington's disease.
-    * Technical support, data analysis, data management and statistical analysis on clinical research's for the French National Reference Centre for Huntington's disease.
+    * Technical support, data analysis, data management and statistical analysis on clinical research project for the French National Reference Centre for Huntington's diseases.
     * Management and implementation of cognitive tests in collaboration with external stakeholders of the lab.
 
 
 **2014 - 2019**
-:   **Engineer manager of scientific platform: Département d’Études Cognitives (ENS, Paris)**
+:   **Engineer manager of a scientific platform: Département d’Études Cognitives (ENS, Paris)**
 
     * Management of the experimental platform for adult testing of the Département d’Études Cognitives. 
     * Technical maintenance of the platform (computers, software, Eyetrackers, EEG...)
     * Engineering support (data collection, experiments designing, analysis) on strategic and innovative projects for the department. 
-    * Organisation and animation of collegial meetings to organise the management experimental platform inclunding researchers of every lab.
-    * Development and maintenance of IT solutions dedicated to the optimization of the exploitation of the experimental platform.
+    * Organisation and moderation of meetings to organise the management of the experimental platform inclunding researchers from every lab.
+    * Development and maintenance of IT solutions dedicated to optimising the operation of the experimental platform
 
 
 Education
 --------------------
 
 **2010-2024** (Hopefully)
-:   **PhD, Cognitive Science**; Ecole Normale Superieure (ENS), Paris Sciences et Lettres (PSL), (Paris, France)
+:   **PhD, Cognitive Science**: Ecole Normale Superieure (ENS), Paris Sciences et Lettres (PSL), (Paris, France)
     
     * PhD scholarship from IRESP (National institute of public health research)
     * Thesis title: coming shortly...
 
 
 **2014-2016**
-:   **Bachelor of Philosophy**(distant learning); Université de Reims Champagne-Ardenne.
+:   **Bachelor of Philosophy** (distant learning); Université de Reims Champagne-Ardenne.
 
 
 **2011-2013**
-:   **Master of Science, in electronics and computer science engineering**; Institut Supérieur de l’Électronique et du Numérique ISEN, (Lille, France)
-    Focus on digital technologies and applications (telecommunication, analogic and digital electronics.). Second year of the master achieved at the TU Dortmund (Germany).   
+:   **Master of Science: electronics and computer science engineering**; Institut Supérieur de l’Électronique et du Numérique ISEN, (Lille, France).
+    Focus on digital technologies and applications (telecommunication, analogic and digital electronics). Second year of master achieved at TU Dortmund (Germany).   
 
 
 **2007-2011**
-:   **Bachelor of Science, engineering science**; Institut Supérieur de l’Électronique et du Numérique ISEN France, Lille. 
+:   **Bachelor of Science: engineering science**; Institut Supérieur de l’Électronique et du Numérique ISEN France, Lille. 
     Focus in mathematics, electronics, physics.
 
 
@@ -85,7 +85,7 @@ Teachings
 
 
 **2021-2023**
-:   **Teaching Assistant: [PROG 101 Introduction to Programming for Cognitive scientists](https://docs.google.com/document/d/1m8o2R8hNs_0oHA9P_UCh26QHDonHgg9EmU1pFpaOykg/edit?usp=sharing); Cogmaster, [Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS (40 hrs/year).  
+:   **Teaching Assistant: [PROG 101 Introduction to Programming for Cognitive scientists](https://docs.google.com/document/d/1m8o2R8hNs_0oHA9P_UCh26QHDonHgg9EmU1pFpaOykg/edit?usp=sharing)**; Cogmaster, [Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS (40 hrs/year).  
 
     Teaching Python to master students with no prior experience in programming
 
