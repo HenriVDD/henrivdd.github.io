@@ -14,9 +14,9 @@ header-includes:
 
 ----
 
->  I am a PhD candidate at the [Laboratoire des Neurosciences Cognitives et Computationelles (LNC2)](httpshttps://lnc2.dec.ens.fr/fr) in the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) team led by [Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/home). Initially trained as an engineer in electronics and computer sciences, I worked for 7 years as an engineer at the Departement d'Etudes Cognitives of the Ecole Normale Supérieure in Paris in charge of the experimental platform.
+>  I am a PhD candidate at the [Laboratoire des Neurosciences Cognitives et Computationelles (LNC2)](https://lnc2.dec.ens.fr/fr) in the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) team led by [Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/home). Initially trained as an engineer in electronics and computer sciences, I worked for 7 years as an engineer at the Departement d'Etudes Cognitives of the Ecole Normale Supérieure in Paris in charge of the experimental platform.
 
->  After some years working on the projects of others: setting up experiments, developping technical solutions and doing data analysis, I decided it was time to get my own project. I started my PhD in April 2021. My interest lies at the crossroads of affective value-based decision making, computational psychiatry and mental health, behavioral economics.
+>  After some years working on the projects of others: setting up experiments, developping technical solutions and doing data analysis, I decided it was time to work on my own project. I started my PhD in April 2021. My interest lies at the crossroads of affective value-based decision making, computational psychiatry and mental health as well as behavioral economics.
 
 ----
 
@@ -25,17 +25,17 @@ header-includes:
 Work Experience
 --------------------
 **2021 - 2024 Sometime**	
-:   **PhD candidate at Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Département d’Etude Cognitive (DEC), Ecole normale supérieure (ENS-PSL) Paris, France.**
+:   **PhD candidate: Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Département d’Etudes Cognitives (DEC), Ecole normale supérieure (ENS-PSL) Paris, France.**
 
-	My PhD consists in studying cognitive biases at play in value based decision making in different tasks and population. 
+	My PhD focuses in the study of cognitive biases at play in value based decision making in different tasks and population. 
     
-    * The first project was an investigation of the so-called negativity bias in patients suffering from major depressive disorder in comparison. The clinical population was compared to a matched control group in a reinforcement learning task. Both behavioral and computational results showed a context dependence in the clinical population with a general tendency toward a negativity bias that displayed with a stronger learning rate for punishement than for reward ([Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593)).
-    * My second study is the design and exploration of a new multi-outcomes two-arm bandit task involving a random reward selection process. This study aims at investigating how people process multiple outcomes for one single option but also how they learn despite the random reward selection process. This experiment includes behavioral experiment online and in lab, eyetracking and computational modelling.
-    * A third part of my PhD is a collaborating modelling investigation with Maeva L'hotellier (research engineer in the team) on follow-up online data of my first project. The main objective is to better characterize the task and the effect obtained in the [Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593) paper thanks to a bigger and more naturalistic sample, allowing us to implement a more robust modelling approach with more complex models.
+    * The first project was an investigation of the so-called negativity bias in patients suffering from major depressive disorder. The clinical population was compared to a matched control group in a reinforcement learning task. Both behavioral and computational results showed a context dependence in the clinical population with a general tendency toward a negativity bias that displayed with a stronger learning rate for punishement than for reward ([Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593)).
+    * My second study is the design and exploration of a new multi-outcomes two-arm bandit task involving a random reward selection process. This study aims at investigating how people process multiple outcomes for one single option but also how they learn despite the random reward selection process. This study includes behavioral experiment online and in lab, eyetracking and computational modelling.
+    * A third part of my PhD is a collaborating modelling investigation with Maëva L'hotellier (research engineer in the team) on an online follow-up of my first project. The main objective is to better characterize the task and the effect obtained in the [Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593) paper thanks to a bigger and more naturalistic sample, allowing us to implement a more robust modelling approach with more complex models.
 
 
 **2019 - 2021**
-:   **Laboratoire de Neuropsychologie Interventionnelle (NPI), (ENS, Paris. AP-HP Henri Mondor Hospital. Creteil): Research engineer**
+:   **Research engineer: Laboratoire de Neuropsychologie Interventionnelle (NPI), (ENS, Paris. AP-HP Henri Mondor Hospital. Creteil)**
 
     * Design and implementation of IT solutions for the different lab’s projects in close interaction with the NPI project manager.
     * Development of cognitive tests in collaboration with NPI researchers for clinical research on neurodegenerative conditions such as Parkinson and Huntington's disease.
@@ -44,7 +44,7 @@ Work Experience
 
 
 **2014 - 2019**
-:   **Engineer manager of scientific platform at the Département d’Études Cognitives (ENS, Paris)**
+:   **Engineer manager of scientific platform: Département d’Études Cognitives (ENS, Paris)**
 
     * Management of the experimental platform for adult testing of the Département d’Études Cognitives. 
     * Technical maintenance of the platform (computers, software, Eyetrackers, EEG...)
