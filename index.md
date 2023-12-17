@@ -14,9 +14,9 @@ header-includes:
 
 ----
 
->  I am a PhD candidate at the [Laboratoire des Neurosciences Cognitives et Computationelles (LNC2)](https://lnc2.dec.ens.fr/fr) in the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) team led by [Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/home). Initially trained as an engineer in electronics and computer sciences, I worked for 7 years as an engineer at the Departement d'Etudes Cognitives of the Ecole Normale Supérieure in Paris in charge of the experimental platform.
+> I am currently pursuing a Ph.D. at the [Laboratoire des Neurosciences Cognitives et Computationelles (LNC2)](https://lnc2.dec.ens.fr/fr) as a part of the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) under the supervision of [Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/home). Originally trained as an engineer in electronics and computer sciences, I dedicated 7 years to working as an engineer at the Department d'Etudes Cognitives of the Ecole Normale Supérieure in Paris, overseeing the experimental platform.
 
->  After some years working on the projects of others: setting up experiments, developping technical solutions and doing data analysis, I decided it was time to work on my own project. I started my PhD in April 2021. My interest lies at the crossroads of affective value-based decision making, computational psychiatry and mental health as well as behavioral economics.
+> After several years devoted to collaborative projects, where I was involved in helping setting up complex experiments and implementing technical solutions and data analysis, I decided it was time to work on my own project. I commenced my Ph.D. studies in April 2021, with my research focus converging at the crossroads of affective value-based decision making, computational psychiatry and mental health as well as behavioral economics.
 
 ----
 
@@ -28,28 +28,28 @@ Work Experience
 
 	My PhD focuses in the study of cognitive biases at play in value based decision making in different tasks and population. 
     
-    * The first project was an investigation of the so-called negativity bias in patients suffering from major depressive disorder. The clinical population was compared to a matched control group in a reinforcement learning task. Both behavioral and computational results showed a context dependence in the clinical population with a general tendency toward a negativity bias that displayed with a stronger learning rate for punishement than for reward ([Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593)).
-    * My second study is the design and exploration of a new multi-outcomes two-arm bandit task involving a random reward selection process. This study aims at investigating how people process multiple outcomes for one single option but also how they learn despite the random reward selection process. This study includes behavioral experiment online and in lab, eyetracking and computational modelling.
-    * A third part of my PhD is a collaborating modelling investigation with Maëva L'hotellier (research engineer in the team) on an online follow-up of my first project. The main objective is to better characterize the task and the effect obtained in the [Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593) paper thanks to a bigger and more naturalistic sample, allowing us to implement a more robust modelling approach with more complex models.
+    * The first project was an investigation of the so-called negativity bias in patients suffering from major depressive disorder. The clinical population was compared to a matched control group in a reinforcement learning task. Both behavioral and computational results revealed a context dependence in the clinical population, showing a general tendency toward a negativity bias. This bias manifested with a stronger learning rate for punishments than for rewards ([Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593)).
+    * My second study focuses on designing and exploring a new multi-outcomes two-arm bandit task that involves a random reward selection process. This study aims to investigate how individuals process multiple outcomes for a single option and how they learn despite the random reward selection process. The study includes online and in-lab behavioral experiments, eye-tracking, and computational modeling.
+    * Another aspect of my Ph.D. involves a collaborative modelling investigation with Maëva L'hotellier (research engineer in the team) on an online follow-up of my first project. The main objective is to better characterize the task and the effect obtained in the [Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593) paper. This approach allows us to implement a more robust modeling strategy with more complex models, thanks to a bigger and more naturalistic sample.
 
 
 **2019 - 2021**
 :   **Research engineer: Laboratoire de Neuropsychologie Interventionnelle (NPI), (ENS, Paris. AP-HP Henri Mondor Hospital. Creteil)**
 
-    * Design and implementation of IT solutions for the different lab projects in close interaction with the NPI project manager.
-    * Development of cognitive tests in collaboration with NPI researchers for clinical research on neurodegenerative conditions such as Parkinson and Huntington's disease.
-    * Technical support, data analysis, data management and statistical analysis on clinical research project for the French National Reference Centre for Huntington's diseases.
-    * Management and implementation of cognitive tests in collaboration with external stakeholders of the lab.
+    * Designing and implementing IT solutions for various lab projects in close collaboration with the NPI project manager.
+    * Collaborating with NPI researchers, I contributed to the development of cognitive tests for clinical research on neurodegenerative conditions, including Parkinson's and Huntington's diseases.
+    * Providing technical support, conducting data analysis, managing data, and performing statistical analysis for clinical research projects at the French National Reference Center for Huntington's diseases.
+    * Managing and implementing cognitive tests in collaboration with external stakeholders of the lab.
 
 
 **2014 - 2019**
 :   **Engineer manager of a scientific platform: Département d’Études Cognitives (ENS, Paris)**
 
-    * Management of the experimental platform for adult testing of the Département d’Études Cognitives. 
-    * Technical maintenance of the platform (computers, software, Eyetrackers, EEG...)
-    * Engineering support (data collection, experiments designing, analysis) on strategic and innovative projects for the department. 
-    * Organisation and moderation of meetings to organise the management of the experimental platform inclunding researchers from every lab.
-    * Development and maintenance of IT solutions dedicated to optimising the operation of the experimental platform
+    * Overseeing the management of the experimental platform for adult testing at the Département d’Études Cognitives.
+    * Conducting technical maintenance of the platform, which includes overseeing the upkeep of computers, software, Eyetrackers, EEG, and other associated equipment.
+    * Providing engineering support, which encompasses tasks such as data collection, experiment design, and analysis, particularly for strategic and innovative projects within the department.
+    * Organizing and facilitating meetings to coordinate the management of the experimental platform, bringing together researchers from each lab for fair and effective collaboration and communication.
+    * Developing and maintaining dedicated IT solutions aimed at optimizing the operational efficiency of the experimental platform.
 
 
 Education
@@ -139,7 +139,7 @@ Skills
     * **Spanish**: Elementary preficiency
 
 **Soft skills**
-:   * Organisation of the joint bi-monthly lab meetings for the 8 teams of the LNC2 featuring both internal and external speakers.
+:   * Coordinating the organization of bi-monthly lab meetings for the eight teams of the LNC2, which include both internal team members and external speakers.
 
 
 
