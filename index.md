@@ -30,7 +30,7 @@ Work Experience
     
     * The first project was an investigation of the so-called negativity bias in patients suffering from major depressive disorder. The clinical population was compared to a matched control group in a reinforcement learning task. Both behavioral and computational results revealed a context dependence in the clinical population, showing a general tendency toward a negativity bias. This bias manifested with a stronger learning rate for punishments than for rewards ([Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593)).
     * My second study focuses on designing and exploring a new multi-outcomes two-arm bandit task that involves a random reward selection process. This study aims to investigate how individuals process multiple outcomes for a single option and how they learn despite the random reward selection process. The study includes online and in-lab behavioral experiments, eye-tracking, and computational modeling.
-    * Another aspect of my Ph.D. involves a collaborative modelling investigation with Maëva L'hotellier (research engineer in the team) on an online follow-up of my first project. The main objective is to better characterize the task and the effect obtained in the [Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593) paper. This approach allows us to implement a more robust modeling strategy with more complex models, thanks to a bigger and more naturalistic sample.
+    * Another aspect of my Ph.D. involves a collaborative modelling investigation with Maëva L'Hôtellier (research engineer in the team) on an online follow-up of my first project. The main objective is to better characterize the task and the effect obtained in the [Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593) paper. This approach allows us to implement a more robust modeling strategy with more complex models, thanks to a bigger and more naturalistic sample.
 
 
 **2019 - 2021**
@@ -55,7 +55,7 @@ Work Experience
 Education
 --------------------
 
-**2010-2024** (Hopefully)
+**2021-2024** (Hopefully)
 :   **PhD, Cognitive Science**: Ecole Normale Superieure (ENS), Paris Sciences et Lettres (PSL), (Paris, France)
     
     * PhD scholarship from IRESP (National institute of public health research)
