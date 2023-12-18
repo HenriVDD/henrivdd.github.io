@@ -9,8 +9,10 @@ pandoc --standalone -c style.css --from markdown --to html -s -o cv.html index.m
 and the url is (to be changed):
 https://henrivdd.github.io/CV/
 
-Skills
-work experience buffed and first.
+Other Project:
+- internship at sainte anne
+- kwit
+- summerschool
 
 grey : 545454
 light turquoise: c5d9d9
