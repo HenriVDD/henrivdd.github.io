@@ -142,7 +142,7 @@ Skills
 :   * Coordinating the organization of bi-monthly lab meetings for the eight teams of the LNC2, which include both internal team members and external speakers.
 
 
-Other
+Other Project
 --------------------
 
 **2023**
