@@ -55,23 +55,23 @@ Work Experience
 Education
 --------------------
 
-**2021-2024** (Hopefully)
+**2021 - 2024** (Hopefully)
 :   **PhD, Cognitive Science**: Ecole Normale Superieure (ENS), Paris Sciences et Lettres (PSL), (Paris, France)
     
     * PhD scholarship from IRESP (National institute of public health research)
     * Thesis title: coming shortly...
 
 
-**2014-2016**
+**2014 - 2016**
 :   **Bachelor of Philosophy** (distant learning); Université de Reims Champagne-Ardenne.
 
 
-**2011-2013**
+**2011 - 2013**
 :   **Master of Science: electronics and computer science engineering**; Institut Supérieur de l’Électronique et du Numérique ISEN, (Lille, France).
     Focus on digital technologies and applications (telecommunication, analogic and digital electronics). Second year of master achieved at TU Dortmund (Germany).   
 
 
-**2007-2011**
+**2007 - 2011**
 :   **Bachelor of Science: engineering science**; Institut Supérieur de l’Électronique et du Numérique ISEN France, Lille. 
     Focus in mathematics, electronics, physics.
 
@@ -83,7 +83,7 @@ Teachings
 :   **Co-organisation of a workshop**; Basic reinforcement learning modeling techniques at the international Symposium of “Biology of Behavior Change” (Kyoto, Japan).
 
 
-**2021-2023**
+**2021 - 2023**
 :   **Teaching Assistant: [PROG 101 Introduction to Programming for Cognitive scientists](https://docs.google.com/document/d/1m8o2R8hNs_0oHA9P_UCh26QHDonHgg9EmU1pFpaOykg/edit?usp=sharing)**; Cogmaster, [Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS (40 hrs/year).  
 
     Teaching Python to master students with no prior experience in programming
@@ -125,7 +125,7 @@ Poster
 Skills
 --------------------
 
-**Programming and nerdy stuff**
+**Programming / nerdy stuff**
 :   * Python, R, Javascript & PHP + html/css, Matlab
     * Linux (Debian, Ubuntu), bash, Database (MySQL,MariaDB)
 
