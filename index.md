@@ -14,7 +14,7 @@ header-includes:
 
 ----
 
-> I am currently pursuing a Ph.D. at the [Laboratoire des Neurosciences Cognitives et Computationelles (LNC2)](https://lnc2.dec.ens.fr/fr) as a part of the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) under the supervision of [Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/home). Originally trained as an engineer in electronics and computer sciences, I dedicated 7 years to working as an engineer at the Department d'Etudes Cognitives of the Ecole Normale Supérieure in Paris, overseeing the experimental platform.
+> I am currently pursuing a Ph.D. at the [Laboratoire des Neurosciences Cognitives et Computationnelles (LNC2)](https://lnc2.dec.ens.fr/fr) as a part of the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) lab under the supervision of [Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/home). Originally trained as an engineer in electronics and computer sciences, I dedicated 7 years to working as an engineer at the Department d'Etudes Cognitives of the Ecole Normale Supérieure in Paris, overseeing the experimental platform.
 
 > After several years devoted to collaborative projects, where I was involved in helping setting up complex experiments and implementing technical solutions and data analysis, I decided it was time to work on my own project. I commenced my Ph.D. studies in April 2021, with my research focus converging at the crossroads of affective value-based decision making, computational psychiatry and mental health as well as behavioral economics.
 
@@ -26,7 +26,7 @@ Work Experience
 **2021 - Present**	
 :   **PhD candidate: Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Département d’Etudes Cognitives (DEC), Ecole normale supérieure (ENS-PSL) Paris, France.**
 
-	My PhD focuses in the study of cognitive biases at play in value based decision making in different tasks and population. 
+	My PhD focuses in the study of cognitive biases at play in value based decision making in different tasks and populations. 
     
     * The first project was an investigation of the so-called negativity bias in patients suffering from major depressive disorder. The clinical population was compared to a matched control group in a reinforcement learning task. Both behavioral and computational results revealed a context dependence in the clinical population, showing a general tendency toward a negativity bias. This bias manifested with a stronger learning rate for punishments than for rewards ([Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593)).
     * My second study focuses on designing and exploring a new multi-outcomes two-arm bandit task that involves a random reward selection process. This study aims to investigate how individuals process multiple outcomes for a single option and how they learn despite the random reward selection process. The study includes online and in-lab behavioral experiments, eye-tracking, and computational modeling.
@@ -103,7 +103,7 @@ Publications
 
 - Marine Lunven, Karen Hernandez Dominguez, Katia Youssov, Jennifer Hamet Bagnou, Rafika Fliss, **Henri Vandendriessche**, Blanche Bapst, Graça Morgado, Philippe Remy, Robin Schubert, Ralf Reilmann, Monica Busse, David Craufurd, Renaud Massart, Anne Rosser, Anne-Catherine Bachoud-Lévi, [**A new approach to digitized cognitive monitoring: validity of the SelfCog in Huntington’s disease**](https://doi.org/10.1093/braincomms/fcad043), Brain Communications, Volume 5, Issue 2, 2023, fcad043, https://doi.org/10.1093/braincomms/fcad043
 
-- Katia Youssov, Etienne Audureau, **Henri Vandendriessche**, Graca Morgado, Richard Layese, Cyril Goizet, Christophe Verny, Marie-Laure Bourhis, Anne-Catherine Bachoud-Lévi, [**The burden of Huntington's disease: A prospective longitudinal study of patient/caregiver pairs**](https://www.sciencedirect.com/science/article/pii/S1353802022002802), Parkinsonism & Related Disorders, Volume 103, 2022, Pages 77-84, ISSN 1353-8020, https://doi.org/10.1016/j.parkreldis.2022.08.023. (https://www.sciencedirect.com/science/article/pii/S1353802022002802)
+- Katia Youssov, Etienne Audureau, **Henri Vandendriessche**, Graca Morgado, Richard Layese, Cyril Goizet, Christophe Verny, Marie-Laure Bourhis, Anne-Catherine Bachoud-Lévi, [**The burden of Huntington's disease: A prospective longitudinal study of patient/caregiver pairs**](https://www.sciencedirect.com/science/article/pii/S1353802022002802), Parkinsonism & Related Disorders, Volume 103, 2022, Pages 77-84, ISSN 1353-8020, https://doi.org/10.1016/j.parkreldis.2022.08.023.
 
 - Gharbi-Meliani, A., Husson, F., **Vandendriessche, H**. et al. [**Identification of high likelihood of dementia in population-based surveys using unsupervised clustering: a longitudinal analysis.**](https://doi.org/10.1186/s13195-023-01357-9) Alz Res Therapy 15, 209 (2023). https://doi.org/10.1186/s13195-023-01357-9
 
