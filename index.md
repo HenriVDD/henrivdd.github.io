@@ -142,6 +142,18 @@ Skills
 :   * Coordinating the organization of bi-monthly lab meetings for the eight teams of the LNC2, which include both internal team members and external speakers.
 
 
+Other
+--------------------
+
+**2023**
+:   Consulting missions for [Kwit](https://kwit.app/en), a mobile app for quitting smoking from a french startup. Data analysis strategy and literature review.
+
+**2023 (August)**
+:   Observation internship in the closed unit of the psychiatric university hospital departement at Saint-Anne Hospital (Paris).
+
+**2023 (July)**
+:   Computational Summer school on Modeling Social and collective behavior ([COSMOS](https://cosmos-konstanz.github.io/about/)).
+
 
 
 Hobbies

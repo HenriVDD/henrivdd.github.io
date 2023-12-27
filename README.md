@@ -6,13 +6,9 @@ pandoc --standalone -c style.css --from markdown --to html -o cv.html index.md
 pandoc --standalone -c style.css --from markdown --to html -s -o cv.html index.md
 
 
-and the url is (to be changed):
-https://henrivdd.github.io/CV/
+https://henrivdd.github.io/
 
-Other Project:
-- internship at sainte anne
-- kwit
-- summerschool
+
 
 grey : 545454
 light turquoise: c5d9d9
