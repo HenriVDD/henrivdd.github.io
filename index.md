@@ -152,7 +152,7 @@ Other Project
 :   Observation internship in the closed unit of the psychiatric university hospital departement at Saint-Anne Hospital (Paris).
 
 **2023 (July)**
-:   Computational Summer school on Modeling Social and collective behavior ([COSMOS](https://cosmos-konstanz.github.io/about/)).
+:   Attending the computational Summer school on Modeling Social and collective behavior ([COSMOS](https://cosmos-konstanz.github.io/about/)).
 
 
 
