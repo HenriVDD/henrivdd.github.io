@@ -125,7 +125,7 @@ Poster
 Skills
 --------------------
 
-**Programming / nerdy stuff**
+**Prog / nerdy stuff**
 :   * Python, R, Javascript & PHP + html/css, Matlab
     * Linux (Debian, Ubuntu), bash, Database (MySQL,MariaDB)
 
