@@ -9,7 +9,7 @@ header-includes:
 - henri.vandendriessche @t protonmail.com
 - github.com/HenriVDD
 - https://gitlab.com/henriv
-- Laboratoire de Neurosciences cognitives et computationelles
+- LNC2
 - 29 rue d'Ulm, 75005 - Paris, France 
 
 ----
