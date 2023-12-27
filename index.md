@@ -2,6 +2,8 @@
 title: Henri Vandendriessche
 header-includes:
     <link rel="icon" type="image/png" href="img/favicon.jpg" />
+footer-includes:
+    <div class="footer">Copyright &copy; Henri Vandendriessche 2023</div>
     
 ---
 
@@ -142,18 +144,17 @@ Skills
 :   * Coordinating the organization of bi-monthly lab meetings for the eight teams of the LNC2, which include both internal team members and external speakers.
 
 
-Other Project
+Other Projects
 --------------------
 
 **2023**
-:   Consulting missions for [Kwit](https://kwit.app/en), a mobile app for quitting smoking from a french startup. Data analysis strategy and literature review.
+:   Consulting missions for [Kwit](https://kwit.app/en), an app for quitting smoking. Data analysis strategy and literature review.
 
 **2023 (August)**
 :   Observation internship in the closed unit of the psychiatric university hospital departement at Saint-Anne Hospital (Paris).
 
 **2023 (July)**
 :   Attending the computational Summer school on Modeling Social and collective behavior ([COSMOS](https://cosmos-konstanz.github.io/about/)).
-
 
 
 Hobbies

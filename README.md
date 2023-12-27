@@ -8,7 +8,7 @@ pandoc --standalone -c style.css --from markdown --to html -s -o cv.html index.m
 
 https://henrivdd.github.io/
 
-
+footer to be improved
 
 grey : 545454
 light turquoise: c5d9d9
