@@ -1,12 +1,6 @@
 ---
-title: Henri Vandendriessche
-header-includes:
-    <link rel="icon" type="image/png" href="img/favicon.jpg" />
-footer-includes:
-    <div class="footer">Copyright &copy; Henri Vandendriessche 2023</div>
-    
+title: Henri Vandendriessche  
 ---
-
 
 - henri.vandendriessche @t protonmail.com
 - github.com/HenriVDD
