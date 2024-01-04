@@ -2,7 +2,7 @@
 title: Henri Vandendriessche  
 ---
 
-- [<img src="img/proton_mail_logo.png" width="40px">](<henri.vandendriessche@protonmail.com>)
+- [<img src="img/proton_mail_logo.png" width="40px">](mailto:"henri.vandendriessche at protonmail.com")
 - [<img src="img/github_logo.png" width="40px">](https://github.com/HenriVDD)
 - [<img src="img/gitlab_logo.png" width="40px">](https://gitlab.com/henriv)
 - [<img src="img/researchgate_logo.png" width="40px">](https://www.researchgate.net/profile/Henri-Vandendriessche)
