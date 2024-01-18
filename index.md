@@ -48,7 +48,7 @@ Work Experience
     * Providing engineering support, which encompasses tasks such as data collection, experiment design, and analysis, particularly for strategic and innovative projects within the department.
     * Organizing and facilitating meetings to coordinate the management of the experimental platform, bringing together researchers from each lab for fair and effective collaboration and communication.
     * Developing and maintaining dedicated IT solutions aimed at optimizing the operational efficiency of the experimental platform.
-    * Supervision of an intern for the development of plug-and-play scripts to enable eye-tracking to python experiments using pylink (EyeLink python library).
+    * Supervision of an intern for the development of plug-and-play scripts, using pylink (EyeLink python library), to enable eye-tracking with experiments coded in python.
 
 
 Education
