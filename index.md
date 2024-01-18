@@ -48,6 +48,7 @@ Work Experience
     * Providing engineering support, which encompasses tasks such as data collection, experiment design, and analysis, particularly for strategic and innovative projects within the department.
     * Organizing and facilitating meetings to coordinate the management of the experimental platform, bringing together researchers from each lab for fair and effective collaboration and communication.
     * Developing and maintaining dedicated IT solutions aimed at optimizing the operational efficiency of the experimental platform.
+    * Supervision of an intern for the development on hands-on scripts in python for setups using eye-tracker with pylink (EyeLink python library).
 
 
 Education
@@ -85,6 +86,9 @@ Teachings
 :   **Teaching Assistant: [PROG 101 Introduction to Programming for Cognitive scientists](https://docs.google.com/document/d/1m8o2R8hNs_0oHA9P_UCh26QHDonHgg9EmU1pFpaOykg/edit?usp=sharing)**; Cogmaster, [Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS (40 hrs/year).  
 
     Teaching Python to master students with no prior experience in programming
+
+**2021 - 2023**
+:   **Student mentoring**; Supervision of two students for the bibliography and research teaching unit of the Paris-Est Creteil University's [Biology and Health master's program](https://sante.u-pec.fr/formation-initiale/master/mention-bio-sante). Based on three articles, selected by myself around a same topic, students had to write a research synthesis, where they discuss the state of the art, the scientific progess and limits of the different papers and the scientific field in general.
 
 **2022**
 :   **Introduction to human reinforcement-learning**: Cogmaster, [Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS (2 hrs)
@@ -150,8 +154,10 @@ Other Projects
 :   Observation internship in the closed unit of the psychiatric university hospital departement at Saint-Anne Hospital (Paris).
 
 **2023 (July)**
-:   Attending the computational Summer school on Modeling Social and collective behavior ([COSMOS](https://cosmos-konstanz.github.io/about/)).
+:   Attending the computational Summer school on Modeling Social and collective behavior [COSMOS](https://cosmos-konstanz.github.io/about/).
 
+**2021**
+:   scientific mediation among high school students with the association [Declis](https://www.cerclefser.org/fr/declics/). An associaton that promotes dialogue between researchers and high school students to create interest in the construction of knowledge.
 
 Hobbies
 --------------------
