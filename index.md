@@ -157,7 +157,7 @@ Other Projects
 :   Attending the computational Summer school on Modeling Social and collective behavior [COSMOS](https://cosmos-konstanz.github.io/about/).
 
 **2021**
-:   Scientific mediation among high school students with the association [Declis](https://www.cerclefser.org/fr/declics/). An associaton that promotes dialogue between researchers and high school students to create interest in the construction of knowledge.
+:   Scientific mediation among high school students with the association [Declics](https://www.cerclefser.org/fr/declics/). An associaton that promotes dialogue between researchers and high school students to create interest in the construction of knowledge.
 
 Hobbies
 --------------------
