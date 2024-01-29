@@ -5,6 +5,7 @@ body {
     margin: auto;
     background: #FFFFFF;
     padding: 10px 10px 50px 10px;
+    text-align: justify;
 }
 
 /* Title of the resume */
@@ -102,7 +103,7 @@ ul {
     list-style-type: none;
 }
 .footer + ul > li:after {
-    content: "  \2023  ";
+    content: "  \2024  ";
 }
 .footer + ul > li:last-child:after {
     content: "";
