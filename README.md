@@ -9,6 +9,9 @@ wkhtmltopdf --enable-local-file-access --load-error-handling ignore index.html s
 
 https://henrivdd.github.io/
 
+Other Project:
+- creative commons
+
 grey : 545454
 light turquoise: c5d9d9
 light violet: a985bb
