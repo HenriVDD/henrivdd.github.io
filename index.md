@@ -21,10 +21,10 @@ title: Henri Vandendriessche
 
 Work Experience
 --------------------
-**07/2024 - Now**	
+**07/2024 - Now**
 :   **Postdoctoral fellow with Stefano Palminteri - Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Ecole normale supérieure (ENS-PSL) Paris, France.**
 
-**2021 - 2024**	
+**2021 - 2024**
 :   **PhD in Cognitive Science: Reinforcement Learning biases in general and clinical population - supervisor: Stefano Palminteri - Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Ecole normale supérieure (ENS-PSL) Paris, France.**
 
 	My PhD focused in the study of cognitive biases at play in value based decision making in different tasks and populations. 
