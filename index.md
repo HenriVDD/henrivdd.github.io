@@ -21,7 +21,8 @@ title: Henri Vandendriessche
 
 Work Experience
 --------------------
-**07/2024 - Present**	**Postdoctoral fellow with Stefano Palminteri- Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Ecole normale supérieure (ENS-PSL) Paris, France.**
+**07/2024 - Present**	
+:   **Postdoctoral fellow with Stefano Palminteri- Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Ecole normale supérieure (ENS-PSL) Paris, France.**
 
 **2021 - 2024**	
 :   **PhD in Cognitive Science: Reinforcement Learning biases in general and clinical population - supervisor: Stefano Palminteri - Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Ecole normale supérieure (ENS-PSL) Paris, France.**
