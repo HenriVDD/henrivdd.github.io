@@ -113,7 +113,7 @@ Publications
 
 
 
-Poster
+Posters
 --------------------
 **2022 (July)**
 :   Forum of the Federation of European Neuroscience Societies (FENS), Paris, France.
