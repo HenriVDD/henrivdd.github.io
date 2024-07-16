@@ -88,15 +88,18 @@ table {
 ul {
     padding: 0;
     margin: 0 1.5em;
-    }
+}
+
 /* ul immediately after h1 = contact list */
+.footer +ul a:link {
+    display:inline-block;
+    height: 40px;
+}
 .footer + ul {
     text-align: center;
     font-weight: bold;
-    margin: 0;
-    padding: 0;
     color: #a985bb;
-    }
+}
 .footer + ul > li {
     display: inline;
     white-space: pre;
@@ -108,7 +111,6 @@ ul {
 .footer + ul > li:last-child:after {
     content: "";
 }
-
 .footer {
     position: absolute;
     bottom: 0;
