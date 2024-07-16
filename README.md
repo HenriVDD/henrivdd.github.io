@@ -6,8 +6,7 @@ pandoc --standalone -c style.css --from markdown --to html -s -o index.html head
 
 Generate PDF:
 wkhtmltopdf --enable-local-file-access --load-error-handling ignore index.html style.css index.pdf
-
-
+wkhtmltopdf --encoding UTF-8 --enable-local-file-access --load-error-handling ignore -B 0 -L 0 -R 0 -T 5 index_pdf.html index.pdf
 
 
 https://henrivdd.github.io/

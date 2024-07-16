@@ -12,7 +12,7 @@ title: Henri Vandendriessche
 
 ----
 
-> I am currently pursuing a Ph.D. at the [Laboratoire des Neurosciences Cognitives et Computationnelles (LNC2)](https://lnc2.dec.ens.fr/fr) as a part of the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) lab under the supervision of [Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/home). Originally trained as an engineer in electronics and computer sciences, I dedicated 7 years to working as an engineer at the Department d'Etudes Cognitives of the Ecole Normale Supérieure in Paris, overseeing the experimental platform.
+> I defended my Ph.D. entitled "Reinforcement Learning biases in general and clinical population" in June 2024 at the [Laboratoire des Neurosciences Cognitives et Computationnelles (LNC2)](https://lnc2.dec.ens.fr/fr) as a part of the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) lab under the supervision of [Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/home). Originally trained as an engineer in electronics and computer sciences, I dedicated 7 years to working as an engineer at the Department d'Etudes Cognitives of the Ecole Normale Supérieure in Paris, overseeing the experimental platform.
 
 > After several years devoted to collaborative projects, where I was involved in helping setting up complex experiments and implementing technical solutions and data analysis, I decided it was time to work on my own project. I commenced my Ph.D. studies in April 2021, with my research focus converging at the crossroads of affective value-based decision making, computational psychiatry and mental health as well as behavioral economics.
 
@@ -33,6 +33,8 @@ Work Experience
     * My second study focuses on designing and exploring a new multi-outcomes two-arm bandit task that involves a random reward selection process. This study aims to investigate how individuals process multiple outcomes for a single option and how they learn despite the random reward selection process. The study includes online and in-lab behavioral experiments, eye-tracking, and computational modeling.
     * Another aspect of my Ph.D. involves a collaborative modelling investigation with Maëva L'Hôtellier (research engineer in the team) on an online follow-up of my first project. The main objective is to better characterize the task and the effect obtained in the [Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593) paper. This approach allows us to implement a more robust modeling strategy with more complex models, thanks to a bigger and more naturalistic sample.
     * My last project is in line with the first project and its limitations that are hard to overcome. The population of patients (undergoing  major depressive disorder) presented several comorbidities and were taking very different medications, making it hard to discriminate which different clinical traits contribute to our behavioral and computational specificities. Furthermore, with only one clinical population, we could not assess the specificity of the effect and whether or not similar biases are found on other pathologies. For this project, we are planning to recruit a larger sample of psychiatric populations to broader the scope of our investigation and assess the transnosographic potential of our behavioral and computational tool. Focusing on several pathologies (Depression, Bipolar disorder, Schizophrenia, Addiction, OCD), our sample would allow us a transnosographic approach that will help us overcome the difficulty of isolating specific psychiatric symptoms. The second goal of this study is methodological. It consists in testing how results obtained in clinical populations compare to those obtained in non-clinical population whose sub-pathological propensity to express psychiatric traits is assessed. This will allow us to assess whether patients and the online subjects group present similar relationship between behavioral and computational parameters (and if yes, along which symptomatological axis).
+
+<div style="page-break-after: always;"></div>
 
 **2019 - 2021**
 :   **Research engineer: Laboratoire de Neuropsychologie Interventionnelle (NPI), (ENS, Paris. AP-HP Henri Mondor Hospital, Créteil)**
@@ -63,15 +65,12 @@ Education
     * Thesis title: Reinforcement Learning biases in general and clinical population
     * PhD scholarship from IRESP (National institute of public health research)
 
-
 **2014 - 2016**
 :   **Bachelor of Philosophy** (distant learning); Université de Reims Champagne-Ardenne.
-
 
 **2011 - 2013**
 :   **Master of Science: electronics and computer science engineering**; Institut Supérieur de l’Électronique et du Numérique ISEN, (Lille, France).
     Focus on digital technologies and applications (telecommunication, analogic and digital electronics). Second year of master achieved at TU Dortmund (Germany).   
-
 
 **2007 - 2011**
 :   **Bachelor of Science: engineering science**; Institut Supérieur de l’Électronique et du Numérique ISEN France, Lille. 
@@ -84,7 +83,6 @@ Teachings
 **2023 (March)**
 :   **Co-organisation of a workshop**; Basic reinforcement learning modeling techniques at the international Symposium of “Biology of Behavior Change” (Kyoto, Japan).
 
-
 **2021 - 2023**
 :   **Teaching Assistant: [PROG 101 Introduction to Programming for Cognitive scientists](https://docs.google.com/document/d/1m8o2R8hNs_0oHA9P_UCh26QHDonHgg9EmU1pFpaOykg/edit?usp=sharing)**; Cogmaster, [Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS (40 hrs/year).  
 
@@ -96,6 +94,7 @@ Teachings
 **2022**
 :   **Introduction to human reinforcement-learning**: Cogmaster, [Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS (2 hrs)
 
+<div style="page-break-after: always;"></div>
 
 Publications
 --------------------
@@ -161,7 +160,7 @@ Other Projects
 :   Attending the computational Summer school on Modeling Social and collective behavior [COSMOS](https://cosmos-konstanz.github.io/about/).
 
 **2021**
-:   Scientific mediation among high school students with the association [Declics](https://www.cerclefser.org/fr/declics/). An associaton that promotes dialogue between researchers and high school students to create interest in the construction of knowledge.
+:   Scientific mediation among high school students with the association [Declics](https://www.cerclefser.org/fr/declics/), that promotes dialogue between researchers and high school students to create interest in the construction of knowledge.
 
 Hobbies
 --------------------
