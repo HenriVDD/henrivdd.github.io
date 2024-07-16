@@ -25,9 +25,9 @@ Work Experience
 :   **Postdoctoral fellow with Stefano Palminteri - Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Ecole normale supérieure (ENS-PSL) Paris, France.**
 
 **2021 - 2024**
-:   **PhD in Cognitive Science: Reinforcement Learning biases in general and clinical population - supervisor: Stefano Palminteri - Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Ecole normale supérieure (ENS-PSL) Paris, France.**
+:   **Ph.D. in Cognitive Science: Reinforcement Learning biases in general and clinical population - supervisor: Stefano Palminteri - Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Ecole normale supérieure (ENS-PSL) Paris, France.**
 
-	My PhD focused in the study of cognitive biases at play in value based decision making in different tasks and populations. 
+	My Ph.D. focused in the study of cognitive biases at play in value based decision making in different tasks and populations. 
     
     * The first project was an investigation of the so-called negativity bias in patients suffering from major depressive disorder. The clinical population was compared to a matched control group in a reinforcement learning task. Both behavioral and computational results revealed a context dependence in the clinical population, showing a general tendency toward a negativity bias. This bias manifested with a stronger learning rate for punishments than for rewards ([Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593)).
     * My second study focuses on designing and exploring a new multi-outcomes two-arm bandit task that involves a random reward selection process. This study aims to investigate how individuals process multiple outcomes for a single option and how they learn despite the random reward selection process. The study includes online and in-lab behavioral experiments, eye-tracking, and computational modeling.
