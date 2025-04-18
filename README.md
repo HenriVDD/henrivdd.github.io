@@ -4,7 +4,9 @@ This is or will or may be my future cv
 Generate html:
 pandoc --standalone -c style.css --from markdown --to html -s -o index.html header.html footer.html index.md
 
-Generate PDF: Need to remove the credit for the PDF generation in the html
+Generate PDF: 
+Warning 1: install a recent version of wkhtmltopdf (see github page https://github.com/wkhtmltopdf/packaging/releases)
+Warning 2: Need to remove the credit for the PDF generation in the html
 wkhtmltopdf --enable-local-file-access --load-error-handling ignore index.html style.css index.pdf
 wkhtmltopdf --encoding UTF-8 --enable-local-file-access --load-error-handling ignore -B 0 -L 0 -R 0 -T 5 index_pdf.html index.pdf
 
