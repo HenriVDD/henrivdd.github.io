@@ -2,27 +2,41 @@
 title: Henri Vandendriessche  
 ---
 
-- [<img src="img/proton_mail_logo.png" width="40px">](mailto:"henri.vandendriessche at protonmail.com")
+- [<img src="img/proton_mail_logo.png" width="40px">](mailto:"henri.vandendriessche at pm.me")
 - [<img src="img/github_logo.png" width="40px">](https://github.com/HenriVDD)
 - [<img src="img/gitlab_logo.png" width="40px">](https://gitlab.com/henriv)
 - [<img src="img/researchgate_logo.png" width="40px">](https://www.researchgate.net/profile/Henri-Vandendriessche)
 - [<img src="img/google_scholar_logo.png" width="40px">](https://scholar.google.com/citations?user=b22r4JEAAAAJ)
-- [<img src="img/lnc2_logo.png" height="40px">](https://lnc2.dec.ens.fr/en)
-- [<img src="img/dec_logo.png" height="40px">](https://https://cognition.ens.fr/en)
+- [<img src="img/riken_cbs_logo.png" height="40px">](https://cbs.riken.jp/en/)
+- [<img src="img/cognac_logo.png" height="40px">](https://cognac-lab.com/)
+
 
 ----
 
-> I defended my Ph.D. entitled "Reinforcement Learning biases in general and clinical population" in June 2024 at the [Laboratoire des Neurosciences Cognitives et Computationnelles (LNC2)](https://lnc2.dec.ens.fr/fr) as a part of the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) lab under the supervision of [Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/home). Originally trained as an engineer in electronics and computer sciences, I dedicated 7 years to working as an engineer at the Department d'Etudes Cognitives of the Ecole Normale Supérieure in Paris, overseeing the experimental platform.
+> Originally trained as an engineer in electronics and computer sciences, I dedicated 7 years to working as an engineer at the Department d'Etudes Cognitives of the Ecole Normale Supérieure in Paris, overseeing the experimental platform.
 
 > After several years devoted to collaborative projects, where I was involved in helping setting up complex experiments and implementing technical solutions and data analysis, I decided it was time to work on my own project. I commenced my Ph.D. studies in April 2021, with my research focus converging at the crossroads of affective value-based decision making, computational psychiatry and mental health as well as behavioral economics.
+
+> I defended my Ph.D. entitled "Reinforcement Learning biases in general and clinical population" in June 2024 at the [Laboratoire des Neurosciences Cognitives et Computationnelles (LNC2)](https://lnc2.dec.ens.fr/fr) as a part of the [Human Reinforcement Learning](https://lnc2.dec.ens.fr/fr/human-reinforcement-learning) lab under the supervision of [Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/home). 
+
+> Currently, I'm a postdoctoral fellow in the [Computational Group Dynamics Collaboration Unit (COGNAC)](https://cognac-lab.com/) working with [Wataru Toyokawa](https://sites.google.com/site/watarutoyokawa) in the Center for Brain Science (CBS) in RIKEN (Tokyo, Japan). I'm using reinforcement learning models applied to humans to study individual or group decision-making and their biases, more specifically in the situation of consensus reaching.
 
 ----
 
 
 Work Experience
 --------------------
-**07/2024 - Now**
+**01/2025 - Now**
+:   **Postdoctoral fellow with Dr Wataru Toyokawa - Computational Group Dynamics Collaboration Unit (COGNAC), Center for Brain Science (CBS), RIKEN, Wako, Japan.**
+
+    * Using agent-based modelling, multi-agent RL simulations and human online experiment, my projects explore inter-individual differences and group dynamics in social contexts and more specifically in consensus decision-making.
+
+
+**07/2024 - 31/2024**
 :   **Postdoctoral fellow with Stefano Palminteri - Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Ecole normale supérieure (ENS-PSL) Paris, France.**
+
+    * Building on my Ph.D. projects and their limitations, I laid the foundations for an ambitious project that should continue over the next few years. In my clinical project, the population of patients (undergoing  major depressive disorder) presented several comorbidities and were taking very different medications, making it hard to discriminate which different clinical traits contribute to our behavioral and computational specificities. Furthermore, with only one clinical population, we could not assess the specificity of the effect and whether or not similar biases are found on other pathologies. For this project, we are planning to recruit a larger sample of psychiatric populations to broader the scope of our investigation and assess the transnosographic potential of our behavioral and computational tool. Focusing on several pathologies (Depression, Bipolar disorder, Schizophrenia, Addiction, OCD), our sample would allow us a transnosographic approach that will help us overcome the difficulty of isolating specific psychiatric symptoms. The second goal of this study is methodological. It consists in testing how results obtained in clinical populations compare to those obtained in non-clinical population whose sub-pathological propensity to express psychiatric traits is assessed. This will allow us to assess whether patients and the online subjects group present similar relationship between behavioral and computational parameters (and if yes, along which symptomatological axis).
+
 
 **2021 - 2024**
 :   **Ph.D. in Cognitive Science: Reinforcement Learning biases in general and clinical population - supervisor: Stefano Palminteri - Laboratoire de Neurosciences Cognitives et Computationnelles (LNC2), Ecole normale supérieure (ENS-PSL) Paris, France.**
@@ -32,7 +46,7 @@ Work Experience
     * The first project was an investigation of the so-called negativity bias in patients suffering from major depressive disorder. The clinical population was compared to a matched control group in a reinforcement learning task. Both behavioral and computational results revealed a context dependence in the clinical population, showing a general tendency toward a negativity bias. This bias manifested with a stronger learning rate for punishments than for rewards ([Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593)).
     * My second study focuses on designing and exploring a new multi-outcomes two-arm bandit task that involves a random reward selection process. This study aims to investigate how individuals process multiple outcomes for a single option and how they learn despite the random reward selection process. The study includes online and in-lab behavioral experiments, eye-tracking, and computational modeling.
     * Another aspect of my Ph.D. involves a collaborative modelling investigation with Maëva L'Hôtellier (research engineer in the team) on an online follow-up of my first project. The main objective is to better characterize the task and the effect obtained in the [Vandendriessche & Demmou 2022](https://doi.org/10.1017/s0033291722001593) paper. This approach allows us to implement a more robust modeling strategy with more complex models, thanks to a bigger and more naturalistic sample.
-    * My last project is in line with the first project and its limitations that are hard to overcome. The population of patients (undergoing  major depressive disorder) presented several comorbidities and were taking very different medications, making it hard to discriminate which different clinical traits contribute to our behavioral and computational specificities. Furthermore, with only one clinical population, we could not assess the specificity of the effect and whether or not similar biases are found on other pathologies. For this project, we are planning to recruit a larger sample of psychiatric populations to broader the scope of our investigation and assess the transnosographic potential of our behavioral and computational tool. Focusing on several pathologies (Depression, Bipolar disorder, Schizophrenia, Addiction, OCD), our sample would allow us a transnosographic approach that will help us overcome the difficulty of isolating specific psychiatric symptoms. The second goal of this study is methodological. It consists in testing how results obtained in clinical populations compare to those obtained in non-clinical population whose sub-pathological propensity to express psychiatric traits is assessed. This will allow us to assess whether patients and the online subjects group present similar relationship between behavioral and computational parameters (and if yes, along which symptomatological axis).
+    
 
 <div style="page-break-after: always;"></div>
 
@@ -115,6 +129,10 @@ Publications
 
 Posters
 --------------------
+**2024 (October)**
+:   Society for Neuroeconomics (SNE), Cascais, Portugal.
+
+
 **2022 (July)**
 :   Forum of the Federation of European Neuroscience Societies (FENS), Paris, France.
 
@@ -166,10 +184,13 @@ Hobbies
 --------------------
 
 **Music**: 
-:   Member of the KKO Klaxophone Klezmer Orchestra (Clarinet)
+:   Former member of the KKO Klaxophone Klezmer Orchestra (Clarinet)
 
 **Volunteering**: 
-:   Prison visitor, member of the ANVP (French association of prison visitors)
+:   Former prison visitor, member of the ANVP (French association of prison visitors)
 
 **Video games**: 
 :   I play a lot -_-
+
+**Sport**: 
+:   Mainly playing football
