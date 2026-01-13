@@ -3,13 +3,13 @@ This is or will or may be my future cv
 
 Generate html:
 pandoc --standalone -c style.css --from markdown --to html -s -o index.html header.html footer.html index.md
+pandoc --standalone -c style.css --from markdown --to html -s -o index_pdf.html header.html footer_pdf.html index.md
 
 Generate PDF: 
 Warning 1: install a recent version of wkhtmltopdf (see github page https://github.com/wkhtmltopdf/packaging/releases)
-Warning 2: Need to remove the credit for the PDF generation in the html (keep the footer beacons but remove the content)
 
-wkhtmltopdf --encoding UTF-8 --enable-local-file-access --load-error-handling ignore -B 0 -L 0 -R 0 -T 5 index_pdf.html index.pdf
-/usr/local/bin/wkhtmltopdf --encoding UTF-8 --enable-local-file-access --load-error-handling ignore -B 0 -L 0 -R 0 -T 5 index_pdf.html --footer-html footer_pdf.html index.pdf
+
+/usr/local/bin/wkhtmltopdf --encoding UTF-8 --enable-local-file-access --load-error-handling ignore -B 0 -L 0 -R 0 -T 5 index_pdf.html cv.pdf
 
 
 https://henrivdd.github.io/
