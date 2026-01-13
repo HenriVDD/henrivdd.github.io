@@ -160,7 +160,8 @@ Skills
     * **Spanish**: Professional working proficiency
 
 **Soft skills**
-:   * Coordinating the organization of bi-monthly lab meetings for the eight teams of the LNC2, which include both internal team members and external speakers.
+:   * Organization member of the 2025 Computational Summer school on Modeling Social and collective behavior ([COSMOS](https://cosmossummerschool.github.io/)) in RIKEN - Tokyo, Japan.
+:   * Coordinating the organization of bi-monthly lab meetings for the eight teams of the LNC2, which include both internal team members and external speakers (2021-2022).
 
 
 Other Projects
