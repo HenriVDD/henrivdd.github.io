@@ -147,17 +147,17 @@ Skills
 --------------------
 
 **Codding**
-:   * Python, R, Javascript & PHP + html/css, Matlab
-    * Linux (Debian, Ubuntu), bash, Database (MySQL,MariaDB)
+:   * Python, R, Javascript & PHP + html/css, Matlab, bash, Markdown
+    * Linux (Debian, Ubuntu), Database (MySQL,MariaDB)
 
 **Techniques**
-:   * Reinforcement Learning modelling, Eyetracking (Eyelink), Online experiment (Prolific), statistical modelling.
+:   * Reinforcement Learning modelling, Eyetracking (Eyelink), Online experiment (Prolific), statistical modeling.
 
 **Languages**
 :   * **French**: Native speaker
     * **English**: Full professional proficiency
     * **German**: Professional working proficiency
-    * **Spanish**: Elementary preficiency
+    * **Spanish**: Professional working proficiency
 
 **Soft skills**
 :   * Coordinating the organization of bi-monthly lab meetings for the eight teams of the LNC2, which include both internal team members and external speakers.
