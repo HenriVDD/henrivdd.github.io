@@ -22,7 +22,7 @@ title: Henri Vandendriessche
 ----
 
 
-Work Experience
+Summary of research experience to date
 --------------------
 **01/2025 - Now**
 :   **Postdoctoral fellow with Dr Wataru Toyokawa - Computational Group Dynamics Collaboration Unit (COGNAC), Center for Brain Science (CBS), RIKEN, Wako, Japan.**
@@ -75,8 +75,7 @@ Education
 :   **PhD in Cognitive Science**: Ecole Normale Superieure (ENS), Paris Sciences et Lettres (PSL), (Paris, France)
     
     * Thesis title: Reinforcement Learning biases in general and clinical population
-    * PhD scholarship from IRESP (National institute of public health research)
-
+    
 **2014 - 2016**
 :   **Bachelor of Philosophy** (distant learning); Université de Reims Champagne-Ardenne.
 
@@ -101,12 +100,20 @@ Teachings
     Teaching Python to master students with no prior experience in programming
 
 **2021 - 2023**
-:   **Student mentoring**; Supervision of two students for the bibliography and research teaching unit of the Paris-Est Creteil University's [Biology and Health master's program](https://sante.u-pec.fr/formation-initiale/master/mention-bio-sante). Based on three articles, selected by myself around a same topic, students had to write a research synthesis, where they discuss state of the art, scientific progess and limits of the different papers and of the scientific field in general.
+:   **Student mentoring**; Supervision of two students for the bibliography and research teaching unit of the Paris-Est Creteil University's [Biology and Health master's program](https://sante.u-pec.fr/formation-initiale/master/mention-bio-sante). Based on three articles, selected by myself around a same topic, students had to write a research synthesis, where they discuss state of the art, scientific progress and limits of the different papers and of the scientific field in general.
 
 **2022**
 :   **Introduction to human reinforcement-learning**: Cogmaster, [Master of Cognitive Sciences](https://cogmaster.ens.psl.eu/en), ENS-PSL & EHESS (2 hrs)
 
+
+Awards and External Funding
+--------------------
+**2021 - 2024**
+:   **PhD in Cognitive Science**: 3-years full-time scholarship from IRESP (french National institute of public health research)
+
+
 <div style="page-break-after: always;"></div>
+
 
 Publications
 --------------------
@@ -151,7 +158,7 @@ Skills
     * Linux (Debian, Ubuntu), Database (MySQL,MariaDB)
 
 **Techniques**
-:   * Reinforcement Learning modelling, Eyetracking (Eyelink), Online experiment (Prolific), statistical modeling.
+:   * Reinforcement Learning modelling, Eye tracking (Eyelink), Online experiment (Prolific), statistical modeling.
 
 **Languages**
 :   * **French**: Native speaker

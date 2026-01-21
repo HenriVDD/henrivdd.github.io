@@ -20,35 +20,9 @@
 <h1 class="title">Henri Vandendriessche</h1>
 </header>
 <link rel="icon" type="image/png" href="img/favicon.jpg" />
-<html>
-<head>
-<script>
-  function subst() {
-      var vars = {};
-      var query_strings_from_url = document.location.search.substring(1).split('&');
-      for (var query_string in query_strings_from_url) {
-          if (query_strings_from_url.hasOwnProperty(query_string)) {
-              var temp_var = query_strings_from_url[query_string].split('=', 2);
-              vars[temp_var[0]] = decodeURI(temp_var[1]);
-          }
-      }
-      var css_selector_classes = ['page', 'frompage', 'topage', 'webpage', 'section', 'subsection', 'date', 'isodate', 'time', 'title', 'doctitle', 'sitepage', 'sitepages'];
-      for (var css_class in css_selector_classes) {
-          if (css_selector_classes.hasOwnProperty(css_class)) {
-              var element = document.getElementsByClassName(css_selector_classes[css_class]);
-              for (var j = 0; j < element.length; ++j) {
-                  element[j].textContent = vars[css_selector_classes[css_class]];
-              }
-          }
-      }
-  }
-  </script>
-</head>
-<body style="border:0; margin: 0;" onload="subst()">
-<footer class="footer" id="stopFooter">
-</footer>
-</body>
-</html>
+<div class="footer">
+
+</div>
 <ul>
 <li><a href="mailto:%22henri.vandendriessche%20at%20pm.me%22"><img src="img/proton_mail_logo.png" width="40px"></a></li>
 <li><a href="https://github.com/HenriVDD"><img src="img/github_logo.png" width="40px"></a></li>
@@ -69,7 +43,7 @@
 <p>Currently, I’m a postdoctoral fellow in the <a href="https://cognac-lab.com/">Computational Group Dynamics Collaboration Unit (COGNAC)</a> working with <a href="https://sites.google.com/site/watarutoyokawa">Wataru Toyokawa</a> in the Center for Brain Science (CBS) in RIKEN (Tokyo, Japan). I’m using reinforcement learning models applied to humans to study individual or group decision-making and their biases, more specifically in the situation of consensus reaching.</p>
 </blockquote>
 <hr />
-<h2 id="work-experience">Work Experience</h2>
+<h2 id="summary-of-research-experience-to-date">Summary of research experience to date</h2>
 <dl>
 <dt><strong>01/2025 - Now</strong></dt>
 <dd><p><strong>Postdoctoral fellow with Dr Wataru Toyokawa - Computational Group Dynamics Collaboration Unit (COGNAC), Center for Brain Science (CBS), RIKEN, Wako, Japan.</strong></p>
@@ -124,7 +98,6 @@
 <dd><p><strong>PhD in Cognitive Science</strong>: Ecole Normale Superieure (ENS), Paris Sciences et Lettres (PSL), (Paris, France)</p>
 <ul>
 <li>Thesis title: Reinforcement Learning biases in general and clinical population</li>
-<li>PhD scholarship from IRESP (National institute of public health research)</li>
 </ul>
 </dd>
 <dt><strong>2014 - 2016</strong></dt>
@@ -147,10 +120,16 @@
 <p>Teaching Python to master students with no prior experience in programming</p>
 </dd>
 <dt><strong>2021 - 2023</strong></dt>
-<dd><strong>Student mentoring</strong>; Supervision of two students for the bibliography and research teaching unit of the Paris-Est Creteil University’s <a href="https://sante.u-pec.fr/formation-initiale/master/mention-bio-sante">Biology and Health master’s program</a>. Based on three articles, selected by myself around a same topic, students had to write a research synthesis, where they discuss state of the art, scientific progess and limits of the different papers and of the scientific field in general.
+<dd><strong>Student mentoring</strong>; Supervision of two students for the bibliography and research teaching unit of the Paris-Est Creteil University’s <a href="https://sante.u-pec.fr/formation-initiale/master/mention-bio-sante">Biology and Health master’s program</a>. Based on three articles, selected by myself around a same topic, students had to write a research synthesis, where they discuss state of the art, scientific progress and limits of the different papers and of the scientific field in general.
 </dd>
 <dt><strong>2022</strong></dt>
 <dd><strong>Introduction to human reinforcement-learning</strong>: Cogmaster, <a href="https://cogmaster.ens.psl.eu/en">Master of Cognitive Sciences</a>, ENS-PSL &amp; EHESS (2 hrs)
+</dd>
+</dl>
+<h2 id="awards-and-external-funding">Awards and External Funding</h2>
+<dl>
+<dt><strong>2021 - 2024</strong></dt>
+<dd><strong>PhD in Cognitive Science</strong>: 3-years full-time scholarship from IRESP (french National institute of public health research)
 </dd>
 </dl>
 <div style="page-break-after: always;">
@@ -161,7 +140,7 @@
 <li><p><strong>Vandendriessche, H.</strong>, Demmou, A., Bavard, S., Yadak, J., Lemogne, C., Mauras, T., &amp; Palminteri, S. (2023). <a href="https://www.cambridge.org/core/journals/psychological-medicine/article/contextual-influence-of-reinforcement-learning-performance-of-depression-evidence-for-a-negativity-bias/4A99B6789148211973379AB7A8A81036#authors-details"><strong>Contextual influence of reinforcement learning performance of depression: Evidence for a negativity bias?</strong> Psychological Medicine, 1-11. doi:10.1017/S0033291722001593</a></p></li>
 <li><p>Chambon, V., Théro, H., Vidal, M., <strong>Vandendriessche, H.</strong>, Haggard, P. &amp; Palminteri S. <a href="https://doi.org/10.1038/s41562-020-0919-5"><strong>Information about action outcomes differentially affects learning from self-determined versus imposed choices.</strong></a> Nat Hum Behav 4, 1067–1079 (2020). https://doi.org/10.1038/s41562-020-0919-5</p></li>
 <li><p><strong>Vandendriessche, H.</strong>, Palminteri, S. <strong><a href="https://doi.org/10.1038/s42003-023-04544-4">Neurocognitive biases from the lab to real life</a></strong>. Commun Biol 6, 158 (2023). https://doi.org/10.1038/s42003-023-04544-4</p></li>
-<li><p>Gharbi-Meliani, A., Husson, F., <strong>Vandendriessche, H</strong>. et al. <a href="https://doi.org/10.1186/s13195-023-01357-9"><strong>Identification of high likelihood of dementia in population-based surveys using unsupervised clustering: a longitudinal analysis.</strong></a> Alz Res Therapy 15, 209 (2023). https://doi.org/10.1186/s13195-023-01357-9</p></li>
+<li><p>Gharbi-Meliani, A., Husson, F., <strong>Vandendriessche, H</strong>, et al. <a href="https://doi.org/10.1186/s13195-023-01357-9"><strong>Identification of high likelihood of dementia in population-based surveys using unsupervised clustering: a longitudinal analysis.</strong></a> Alz Res Therapy 15, 209 (2023). https://doi.org/10.1186/s13195-023-01357-9</p></li>
 <li><p>Marine Lunven, … , <strong>Henri Vandendriessche</strong>, et al. <a href="https://doi.org/10.1093/braincomms/fcad043"><strong>A new approach to digitized cognitive monitoring: validity of the SelfCog in Huntington’s disease</strong></a>, Brain Communications, Volume 5, Issue 2, 2023, fcad043, https://doi.org/10.1093/braincomms/fcad043</p></li>
 <li><p>Katia Youssov, Etienne Audureau, <strong>Henri Vandendriessche</strong>, Graca Morgado, Richard Layese, Cyril Goizet, Christophe Verny, Marie-Laure Bourhis, Anne-Catherine Bachoud-Lévi, <a href="https://www.sciencedirect.com/science/article/pii/S1353802022002802"><strong>The burden of Huntington’s disease: A prospective longitudinal study of patient/caregiver pairs</strong></a>, Parkinsonism &amp; Related Disorders, Volume 103, 2022, Pages 77-84, ISSN 1353-8020, https://doi.org/10.1016/j.parkreldis.2022.08.023.</p></li>
 </ul>
@@ -190,7 +169,7 @@
 </dd>
 <dt><strong>Techniques</strong></dt>
 <dd><ul>
-<li>Reinforcement Learning modelling, Eyetracking (Eyelink), Online experiment (Prolific), statistical modeling.</li>
+<li>Reinforcement Learning modelling, Eye tracking (Eyelink), Online experiment (Prolific), statistical modeling.</li>
 </ul>
 </dd>
 <dt><strong>Languages</strong></dt>
