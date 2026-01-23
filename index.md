@@ -153,7 +153,7 @@ Posters
 Skills
 --------------------
 
-**Codding**
+**Coding**
 :   * Python, R, Javascript & PHP + html/css, Matlab, bash, Markdown
     * Linux (Debian, Ubuntu), Database (MySQL,MariaDB)
 
