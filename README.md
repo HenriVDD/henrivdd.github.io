@@ -8,7 +8,6 @@ pandoc --standalone -c style.css --from markdown --to html -s -o index_pdf.html 
 Generate PDF: 
 Warning 1: install a recent version of wkhtmltopdf (see github page https://github.com/wkhtmltopdf/packaging/releases)
 
-
 /usr/local/bin/wkhtmltopdf --encoding UTF-8 --enable-local-file-access --load-error-handling ignore -B 0 -L 0 -R 0 -T 5 index_pdf.html cv.pdf
 
 
@@ -16,8 +15,8 @@ https://henrivdd.github.io/
 
 To Do:
 - creative commons
-- auto-remove credits for PDF generation
 - add a photo ?
+- Maybe think of a way out of wkhtmltopdf?
 
 grey : 545454
 light turquoise: c5d9d9
